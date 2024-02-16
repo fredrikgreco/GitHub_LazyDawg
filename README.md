@@ -8,3 +8,7 @@ _(den riktiga "DevOps" här är [GitHub Actions](https://github.com/fredrikgreco
 
 
 :boom: [Länk till hur man formaterar sin Readme här på GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+
+
+<sub>_(Folders och övriga filer i detta Repo kan ignoreras just nu, det är en Blazor Server with WASM som ska bli en sida senare förhoppningsvis)_</sub>
