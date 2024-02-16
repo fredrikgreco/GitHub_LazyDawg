@@ -1,6 +1,6 @@
 ## Här ska vi tillsammans få ordning på GitHub
 
-_(Repository är ibland kallt projekt men blir rörigt här då "project" är benämningen på devOps delen som gör tables, boards och timelines etc)_
+_(Repository kallas ibland projekt men blir rörigt här då "project" är benämningen på devOps delen som gör tables, boards och timelines etc)_
 
 _(den riktiga "DevOps" här är [GitHub Actions](https://github.com/fredrikgreco/GitHub_LazyDawg/actions) som jag ska förklara senare)_
 
